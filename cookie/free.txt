@@ -1,0 +1,7 @@
+◆Cookieの利用
+cookie-parserというライブラリを使うと、非常に簡単にCookieの操作が行えるようになります。
+
+◆Cookie-parserのインストール
+npm install cookie-parser --save
+
+※Expressの3系統のバージョンまでは"express.cookieParser"として組み込まれていましたが、バージョン4より独立しました。
