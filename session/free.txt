@@ -1,0 +1,7 @@
+◆sessionの利用
+sessionの操作にはexpress-sessionというライブラリを使用します。
+
+このライブラリは元々Expressの組み込み機能でしたが、バージョン4から独立しました。
+
+基本的な使い方はcookie-parserとおあんじノリでいけます。
+
